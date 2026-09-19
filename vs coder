@@ -33,3 +33,21 @@
 # print("#     #")
 # print("#      #")
 
+print("########################################")
+print("      LADIES AND GENTLEMEN...")
+print("           ROOP HAS ARRIVED!")
+print("########################################")
+
+print("Fact 1: I am in grade 9.")
+print("Fact 2: I like to build Lego flowers.")
+print("Fact 3: I do taekwondo.")
+
+print("")
+
+print("ROOP IS READY TO TAKE ON THE WORLD!")
+
+print(100 * 99)
+
+print("*crowd goes absolutely wild*")
+
+print("########################################")
